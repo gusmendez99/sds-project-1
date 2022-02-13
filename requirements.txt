@@ -104,3 +104,6 @@ webencodings==0.5.1
 websocket-client==1.2.3
 widgetsnbextension==3.5.2
 zipp==3.7.0
+quickda
+scikit-learn
+ppscore
